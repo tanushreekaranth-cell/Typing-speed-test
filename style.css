@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, sans-serif;
+    bckground-color: blue;
+    text-align: center;
+    padding-top:60px;
+}
+.box{
+    background-color: pink;
+    width:500px;
+    margin:auto;
+    padding:40px;
+    border-radius: 15px;
+}
+
+#text{
+    font-size:20px;
+    lne-height: 1.9;
+}
+
+textarea{
+    width:90%;
+    height: 150px;
+    padding:20px;
+    font-size:18px;
+
+}
+
+button{
+    padding:10px 30px;
+    margin:10px;
+    cursor:pointer;
+}
+
+.wrong{
+    color:red;
+}
+
+.correct{
+    color:green;
+}
